@@ -1,0 +1,3 @@
+class Subscription < Base
+
+end
